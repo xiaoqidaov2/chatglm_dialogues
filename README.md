@@ -53,5 +53,4 @@ chatglm模型是由清华大学开源的一个用于对话集提取的预训练�
 
 ## 7. 参考和致谢
 - 清华大学开源的chatglm模型：[链接](https://github.com/THUNLP-MT/Chat)
-
-我们对清华大学开源的chatglm模型表示感谢，并感谢所有为该项目做出贡献的人员。
+- Extract Dialogue：[链接](https://github.com/KMnO4-zx/extract-dialogue)
